@@ -1,0 +1,36 @@
+.box{
+    height:600px;
+    background:rgba(29, 11, 11, 0.627);
+    position: relative;
+}
+.contant
+{
+    width:90%;
+    height:80%;
+    background: green;
+    margin: 20px auto;
+    position: relative;
+    top:30px;
+    left:80px;
+    display: inline-block;
+    justify-content: space-between;
+    overflow: hidden;
+    align-items: center;
+}
+
+.img{
+    width:40%;
+    height:400px;
+    margin:20px auto;
+    background:red;
+    float: left;
+    position: absolute;
+}
+.right_img{
+    width:60%;
+    
+    background:blue;
+    left:570px;
+}
+
+ul>li>a{text-decoration: none;}
